@@ -1,13 +1,13 @@
 # Security
-Due to the VOCA-UK project's nature, security is a top priority. If you believe you've found a vulnerability in any VOCA-UK repository (github.com/vocauk) please 
+Due to the VOCAWAVES project's nature, security is a top priority. If you believe you've found a vulnerability in any VOCAWAVES repository (github.com/vocauk) please 
 report it to us as described below.
 
 ## Important Information
-Remember: **Do not attempt to damage the VOCA-UK website or services**, for example via DDOS, spamming and brute force attacks.
+Remember: **Do not attempt to damage the VOCAWAVES website or services**, for example via DDOS, spamming and brute force attacks.
 
 ## Reporting Vulnerabilities
 **Do not report security issues through GitHub issues, discussions or our Discord server**.
-Please instead report them directly to our contact email at contact@vocauk.com with ``SECURITY: <issue here>`` as the subject field, replacing ``<issue here>`` with brief information as to what the issue is 
+Please instead report them directly to our contact email at contact@vocawaves.org with ``SECURITY: <issue here>`` as the subject field, replacing ``<issue here>`` with brief information as to what the issue is 
 and what repository it occurs on.
 
 You may use the following format for sending information:

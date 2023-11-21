@@ -1,2 +1,2 @@
 # .github
-Community health files for VOCA-UK
+Community health files for VOCAWAVES
