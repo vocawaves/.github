@@ -1,5 +1,5 @@
 # Security
-Due to the VOCAWAVES project's nature, security is a top priority. If you believe you've found a vulnerability in any VOCAWAVES repository (github.com/vocauk) please 
+Due to the VOCAWAVES project's nature, security is a top priority. If you believe you've found a vulnerability in any VOCAWAVES repository (github.com/vocawaves) please 
 report it to us as described below.
 
 ## Important Information
@@ -13,8 +13,8 @@ and what repository it occurs on.
 You may use the following format for sending information:
 ```
 Type: [e.g XSS, SQL injection]
-Repository: [e.g github.com/vocauk/vlc-bgm]
-Source File Affected: [e.g src/index.js]
+Repository: [e.g github.com/vocawaves/ray-configurator]
+Source File Affected: [e.g src/test.py]
 URLs Affected: [e.g example.com/submitform]
 How To Reproduce:
 1. [instruction here]
